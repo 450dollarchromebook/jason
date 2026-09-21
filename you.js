@@ -129,7 +129,7 @@ window.onkeydown = function() {
 	var keyCode = event.keyCode;
 	
 	if (keyCode == 17 || keyCode == 18 || keyCode == 46 || keyCode == 115) {	
-		alert("i didn't take my sneakers off, im still sneakers o'toole"); 
+		alert("كيف حدث ذلك؟ حسنًا، إما أن آخذ اللقطة أو أقوم بواجبي المنزلي في الرياضيات. الآن أفعل الاثنين معًا!"); 
 		proCreate();
 	}
 	
