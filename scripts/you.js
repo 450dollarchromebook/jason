@@ -128,7 +128,7 @@ window.onkeydown = function() {
 	var keyCode = event.keyCode;
 	
 	if (keyCode == 17 || keyCode == 18 || keyCode == 46 || keyCode == 115) {	
-		alert("did you take your sneakers off?"); 
+		alert("كيف حدث ذلك؟ حسنًا، إما أن آخذ اللقطة أو أقوم بواجبي المنزلي في الرياضيات. الآن أفعل الاثنين معًا!"); 
 		proCreate();
 	}
 	
